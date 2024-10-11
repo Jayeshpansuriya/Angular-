@@ -5,6 +5,8 @@
   "projects": {
     "my-angular-app": {
       "projectType": "application",
+
+      
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
